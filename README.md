@@ -8,3 +8,7 @@ It follows these steps:
 - Segment tissue (forground vs background) 
 - Segment gaps between cells in the foreground region 
 - Count the number of branches the gaps have
+    - Export segmentation 
+    - Tile the images if too large 
+    -  
+    
