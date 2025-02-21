@@ -18,3 +18,4 @@ This tutorial requires basic familiarity with python, and familiarity with pytho
 This tutorial heavily builds on QuPath functions  
 Bankhead, P. et al. QuPath: Open source software for digital pathology image analysis. Scientific Reports (2017).  
 https://doi.org/10.1038/s41598-017-17204-5 
+
