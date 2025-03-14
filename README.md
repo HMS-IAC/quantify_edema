@@ -1,7 +1,11 @@
 # How separated are cells in tissue? 
 This tutorial teaches how to quantify the extent of cell-cell separation in histopathology tissue. 
 Examples shown are on cell-cell separation of inflammed and healthy H&E slices of mouse pancreases.  
-This tutorial requires basic familiarity with python, and familiarity with python environments and dependencies.  
+This tutorial requires basic familiarity with python.  
+
+# Dependencies 
+Install uv following [these](https://docs.astral.sh/uv/getting-started/installation/) instructions. 
+
 
 
 ## It follows these steps: 
@@ -9,8 +13,10 @@ This tutorial requires basic familiarity with python, and familiarity with pytho
 - [Segment tissue (forground vs background)](./1_Segment_tissue.ipynb)  
 - [Segment gaps between cells in the foreground region](./2_Segment_gaps.ipynb)   
 - [Export segmentation masks from QuPath](./3_Export_segmentation.ipynb)  
-- [Tile output images](./4_Tile_images.ipynb)  
-- [Count and export the density of branchpoints](./5_Count_branchpoints.ipynb)  
+- [Tile output images](./4_Tile_images_uv.ipynb)  
+-- To run: ```uvx juv run 4_Tile_images_uv.ipynb```  
+- [Count and export the density of branchpoints](.```uvx juv run )  
+-- To run: ```uvx juv run uvx juv run```   
     
 
 
