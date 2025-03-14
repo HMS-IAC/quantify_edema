@@ -15,8 +15,8 @@ Install uv following [these](https://docs.astral.sh/uv/getting-started/installat
 - [Export segmentation masks from QuPath](./3_Export_segmentation.ipynb)  
 - [Tile output images](./4_Tile_images_uv.ipynb)  
 -- To run: ```uvx juv run 4_Tile_images_uv.ipynb```  
-- [Count and export the density of branchpoints](.```uvx juv run )  
--- To run: ```uvx juv run uvx juv run```   
+- [Count and export the density of branchpoints](./5_Count_branchpoints_uv.ipynb)  
+-- To run: ```uvx juv run 5_Count_branchpoints_uv.ipynb```  
     
 
 
